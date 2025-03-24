@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kota/Desktop/a/gamecpp/sdl2-starter/src/main'
+relocations:     []
+...
